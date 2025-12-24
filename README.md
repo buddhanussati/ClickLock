@@ -1,6 +1,6 @@
 # ClickLock
 
-**ClickLock** is a lightweight AutoHotkey-based utility designed to make text selection easier and more ergonomic. It allows you to toggle the "Left Click" state using your Middle Mouse Button, enabling long highlights without needing to hold down a button.
+**ClickLock** is a lightweight AutoHotkey-based utility designed to make text selection easier and more ergonomic. It allows you to toggle the "Hold Left Click" state using your Middle Mouse Button, enabling long highlights without needing to hold down a button.
 
 ## 🚀 Features
 ![clicklock1](https://github.com/user-attachments/assets/92ef1df9-a671-45b1-a861-52be23759f57)
